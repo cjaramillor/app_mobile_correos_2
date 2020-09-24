@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="DELETE">
+        <icon>{"FontName":"Font Awesome 5 Pro Regular","Value":"f067","Name":"plus","FontColor":"#54AC98","BackgroundColor":"#54AC98"}</icon>
+        <name>icon-Plus</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-01 14:13:58</sys_created_on>
+        <sys_id>b796bb601bbd18104bea97d01b4bcb72</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>icon-Plus</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_icon_b796bb601bbd18104bea97d01b4bcb72</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-10 15:56:18</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>2b1e0f27db0d1c14f37acac505961981</instance_id>
+        <instance_name>correositsm</instance_name>
+        <name>sys_sg_icon_b796bb601bbd18104bea97d01b4bcb72</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"FontName":"Font Awesome 5 Pro Regular","Value":"f067","Name":"plus","FontColor":"#54AC98","BackgroundColor":"#54AC98"}</icon>
+        <name>icon-Plus</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-01 14:13:58</sys_created_on>
+        <sys_id>b796bb601bbd18104bea97d01b4bcb72</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>icon-Plus</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_icon_b796bb601bbd18104bea97d01b4bcb72</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-10 15:56:18</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>]]></payload>
+        <payload_hash>782872360</payload_hash>
+        <record_name>icon-Plus</record_name>
+        <reverted_from/>
+        <source>376482ffdb62941022d66f8b139619d9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-08-17 15:02:37</sys_created_on>
+        <sys_id>0b744affdb62941022d66f8b139619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173fcf195900000001</sys_recorded_at>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-08-17 15:02:37</sys_updated_on>
+        <type>Icon</type>
+        <update_guid>c7744aff01629410d01a7cebea2669b8</update_guid>
+        <update_guid_history>c7744aff01629410d01a7cebea2669b8:782872360</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-22 13:15:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_icon">sys_sg_icon</sys_db_object>
+        <sys_id>0ea1f6a889c34ac28e029bcf4a1466c1</sys_id>
+        <sys_metadata>b796bb601bbd18104bea97d01b4bcb72</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Plus</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_sg_icon_b796bb601bbd18104bea97d01b4bcb72</sys_update_name>
+        <sys_update_version display_value="sys_sg_icon_b796bb601bbd18104bea97d01b4bcb72">0b744affdb62941022d66f8b139619b8</sys_update_version>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-22 13:15:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Inicio">e281c1f21b6510104bea97d01b4bcbf0</applet_launcher>
+        <order>10</order>
+        <section display_value="Trabajo de mis Grupos">757d68ff1bdb10104ce9dce8bc4bcb06</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-23 15:29:31</sys_created_on>
+        <sys_id>757d68ff1bdb10104ce9dce8bc4bcb08</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_757d68ff1bdb10104ce9dce8bc4bcb08</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-23 15:29:40</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>5dae87afdb4198547527d7c8f496193f</instance_id>
+        <instance_name>correositsmdev</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_757d68ff1bdb10104ce9dce8bc4bcb08</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Inicio">e281c1f21b6510104bea97d01b4bcbf0</applet_launcher><order>10</order><section display_value="Trabajo de mis Grupos">757d68ff1bdb10104ce9dce8bc4bcb06</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>slx.cj</sys_created_by><sys_created_on>2020-09-23 15:29:31</sys_created_on><sys_id>757d68ff1bdb10104ce9dce8bc4bcb08</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package><sys_policy/><sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_757d68ff1bdb10104ce9dce8bc4bcb08</sys_update_name><sys_updated_by>slx.cj</sys_updated_by><sys_updated_on>2020-09-23 15:29:40</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-1496357616</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1a944633dba2941022d66f8b1396191a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-23 15:29:40</sys_created_on>
+        <sys_id>f77de8ff1bdb10104ce9dce8bc4bcb72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174bb95a2d10000001</sys_recorded_at>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-23 15:29:40</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>bb7dec3f24db101095a6a6a644a82f6d</update_guid>
+        <update_guid_history>bb7dec3f24db101095a6a6a644a82f6d:-1496357616,f57d68ffc4db10106c5b8511ba7dcb09:948847634</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-23 15:30:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>3806d0d3565c4768a3916dd066e24840</sys_id>
+        <sys_metadata>757d68ff1bdb10104ce9dce8bc4bcb08</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_757d68ff1bdb10104ce9dce8bc4bcb08</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_757d68ff1bdb10104ce9dce8bc4bcb08">f77de8ff1bdb10104ce9dce8bc4bcb72</sys_update_version>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-23 15:30:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

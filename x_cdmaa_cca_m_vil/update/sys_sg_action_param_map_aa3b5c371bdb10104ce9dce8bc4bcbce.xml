@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Aprobar">a5d9d8f31bdb10104ce9dce8bc4bcb14</button>
+        <item_parameter display_value="approval_user">b40a5cf31bdb10104ce9dce8bc4bcbd6</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-23 14:10:03</sys_created_on>
+        <sys_id>aa3b5c371bdb10104ce9dce8bc4bcbce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b40a5cf31bdb10104ce9dce8bc4bcbd6</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_aa3b5c371bdb10104ce9dce8bc4bcbce</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-23 14:10:03</sys_updated_on>
+        <ui_parameter display_value="Usuario aprobador">b0dad4371bdb10104ce9dce8bc4bcbe9</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

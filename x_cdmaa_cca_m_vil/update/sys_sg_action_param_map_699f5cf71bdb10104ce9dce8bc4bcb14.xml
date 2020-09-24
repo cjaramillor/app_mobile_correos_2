@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Rechazar">eefe94b71bdb10104ce9dce8bc4bcbba</button>
+        <item_parameter display_value="comments">00b958f31bdb10104ce9dce8bc4bcb59</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-23 14:29:05</sys_created_on>
+        <sys_id>699f5cf71bdb10104ce9dce8bc4bcb14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>00b958f31bdb10104ce9dce8bc4bcb59</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_699f5cf71bdb10104ce9dce8bc4bcb14</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-23 14:29:05</sys_updated_on>
+        <ui_parameter display_value="Observaciones adicionales">e23f54b71bdb10104ce9dce8bc4bcb7f</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

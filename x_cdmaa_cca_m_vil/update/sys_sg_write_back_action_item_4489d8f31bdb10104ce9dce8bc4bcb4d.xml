@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>SLX rechazar</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-23 14:03:00</sys_created_on>
+        <sys_id>4489d8f31bdb10104ce9dce8bc4bcb4d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SLX rechazar</sys_name>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_4489d8f31bdb10104ce9dce8bc4bcb4d</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-23 14:06:04</sys_updated_on>
+        <table>sysapproval_group</table>
+        <template>approval=rejected^comments={{comments}}^approval_user={{approval_user}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=4489d8f31bdb10104ce9dce8bc4bcb4d"/>
+</record_update>

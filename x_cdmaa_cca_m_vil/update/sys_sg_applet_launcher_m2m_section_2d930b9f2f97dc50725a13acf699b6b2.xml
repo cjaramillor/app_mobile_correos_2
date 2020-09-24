@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Inicio Mobile">c633035f2f97dc50725a13acf699b62e</applet_launcher>
+        <order>10</order>
+        <section display_value="Incidentes Abiertos">2593839f2f97dc50725a13acf699b6a9</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>slx.bb</sys_created_by>
+        <sys_created_on>2020-09-22 13:08:27</sys_created_on>
+        <sys_id>2d930b9f2f97dc50725a13acf699b6b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_2d930b9f2f97dc50725a13acf699b6b2</sys_update_name>
+        <sys_updated_by>slx.bb</sys_updated_by>
+        <sys_updated_on>2020-09-22 13:08:27</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Inicio">e281c1f21b6510104bea97d01b4bcbf0</applet_launcher>
+        <order>20</order>
+        <quick_action_button display_value="Nuevo Incidente">781587dbdb13505022d66f8b139619fb</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>slx.cj</sys_created_by>
+        <sys_created_on>2020-09-22 13:14:57</sys_created_on>
+        <sys_id>7c15835fdb13505022d66f8b1396197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_7c15835fdb13505022d66f8b1396197e</sys_update_name>
+        <sys_updated_by>slx.cj</sys_updated_by>
+        <sys_updated_on>2020-09-22 13:14:57</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+</record_update>
