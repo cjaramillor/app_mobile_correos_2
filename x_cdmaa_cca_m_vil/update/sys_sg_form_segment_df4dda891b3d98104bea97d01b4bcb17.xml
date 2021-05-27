@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">0b4dda891b3d98104bea97d01b4bcb15</embedded_screen>
         <form display_value="Asignados">cf4dda891b3d98104bea97d01b4bcb12</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>slx.gs2</sys_created_by>

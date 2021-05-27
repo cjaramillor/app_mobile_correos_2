@@ -3,6 +3,7 @@
         <description>Accion de reabrir para el Solicicitante</description>
         <execution_script/>
         <name>SLX Reabrir INC</name>
+        <parameter_screen/>
         <query_condition table="incident">active=true^state=6^number={{number}}^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item display_value="Resolved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="6"/>
             <item endquery="false" field="number" goto="false" newquery="false" operator="=" or="false" value="{{number}}"/>
@@ -25,6 +26,7 @@
 Reabierto con comentarios: {{comentarios}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
     <sys_translated_text action="delete_multiple" query="documentkey=f941447c1bbd18104bea97d01b4bcbd9"/>
 </record_update>

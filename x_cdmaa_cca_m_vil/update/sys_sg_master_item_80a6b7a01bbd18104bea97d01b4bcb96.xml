@@ -18,5 +18,7 @@
         <sys_update_name>sys_sg_master_item_80a6b7a01bbd18104bea97d01b4bcb96</sys_update_name>
         <sys_updated_by>slx.gs2</sys_updated_by>
         <sys_updated_on>2020-07-01 14:14:49</sys_updated_on>
+        <use_view_config>false</use_view_config>
+        <view_config/>
     </sys_sg_master_item>
 </record_update>

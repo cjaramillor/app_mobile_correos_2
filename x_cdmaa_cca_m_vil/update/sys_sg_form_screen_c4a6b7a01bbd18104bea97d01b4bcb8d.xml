@@ -4,13 +4,18 @@
         <data_item/>
         <description/>
         <dynamic_prefetch_count/>
+        <empty_state/>
         <fetch_type>not_required</fetch_type>
+        <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="Icono + Icon">40a6b7a01bbd18104bea97d01b4bcb89</icon>
         <item_view display_value="Icono + Header Item View">04a6b7a01bbd18104bea97d01b4bcb8b</item_view>
         <name>Icono +</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
         <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>slx.gs2</sys_created_by>
         <sys_created_on>2020-07-01 14:13:58</sys_created_on>
@@ -24,6 +29,8 @@
         <sys_updated_by>slx.gs2</sys_updated_by>
         <sys_updated_on>2020-07-01 14:14:49</sys_updated_on>
         <table>incident</table>
+        <use_view_config>false</use_view_config>
+        <view_config/>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=c4a6b7a01bbd18104bea97d01b4bcb8d"/>
 </record_update>

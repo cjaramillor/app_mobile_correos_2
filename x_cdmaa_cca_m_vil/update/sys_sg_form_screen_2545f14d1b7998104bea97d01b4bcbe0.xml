@@ -4,13 +4,18 @@
         <data_item/>
         <description/>
         <dynamic_prefetch_count/>
+        <empty_state/>
         <fetch_type>not_required</fetch_type>
+        <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="Requested Items Icon">a145f14d1b7998104bea97d01b4bcbaa</icon>
         <item_view display_value="Requested Items Header Item View">6145f14d1b7998104bea97d01b4bcbde</item_view>
         <name>Elementos Pedidos</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
         <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>slx.gs2</sys_created_by>
         <sys_created_on>2020-07-02 18:05:47</sys_created_on>
@@ -24,6 +29,8 @@
         <sys_updated_by>slx.gs2</sys_updated_by>
         <sys_updated_on>2020-07-02 19:26:53</sys_updated_on>
         <table>sc_req_item</table>
+        <use_view_config>false</use_view_config>
+        <view_config/>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=2545f14d1b7998104bea97d01b4bcbe0"/>
     <sys_translated_text action="INSERT_OR_UPDATE">

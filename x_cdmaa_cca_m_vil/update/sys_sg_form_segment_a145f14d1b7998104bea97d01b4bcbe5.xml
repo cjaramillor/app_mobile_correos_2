@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">2d45f14d1b7998104bea97d01b4bcbe2</embedded_screen>
         <form display_value="Elementos Pedidos">2545f14d1b7998104bea97d01b4bcbe0</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>slx.gs2</sys_created_by>

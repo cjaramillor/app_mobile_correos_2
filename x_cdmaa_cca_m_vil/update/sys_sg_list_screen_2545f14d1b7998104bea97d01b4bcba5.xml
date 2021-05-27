@@ -3,7 +3,9 @@
         <available_offline>false</available_offline>
         <description>Vista Resolutor</description>
         <dynamic_prefetch_count/>
+        <empty_state/>
         <fetch_type>on_demand</fetch_type>
+        <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Lightbulb">9d45f14d1b7998104bea97d01b4bcb9f</icon>

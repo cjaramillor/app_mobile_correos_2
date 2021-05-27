@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="History">a681c1f21b6510104bea97d01b4bcbfb</embedded_screen>
         <form display_value="Incidentes">6681c1f21b6510104bea97d01b4bcbf9</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>20</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>slx.gs</sys_created_by>

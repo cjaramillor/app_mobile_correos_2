@@ -34,6 +34,7 @@
         <sys_updated_by>slx.gs2</sys_updated_by>
         <sys_updated_on>2020-07-01 17:22:47</sys_updated_on>
         <table_name/>
+        <virtual_field_value>false</virtual_field_value>
     </sys_sg_ui_parameter>
     <sys_translated_text action="delete_multiple" query="documentkey=f53384701bfd18104bea97d01b4bcb64"/>
 </record_update>

@@ -3,6 +3,7 @@
         <description/>
         <execution_script/>
         <name>SLX Comentar INC</name>
+        <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>slx.gs2</sys_created_by>
@@ -20,6 +21,7 @@
         <template>comments={{comentario}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
     <sys_translated_text action="delete_multiple" query="documentkey=28056ad71b7118104bea97d01b4bcb3f"/>
 </record_update>

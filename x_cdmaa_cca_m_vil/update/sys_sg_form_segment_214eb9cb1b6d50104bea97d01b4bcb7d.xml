@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">e94eb9cb1b6d50104bea97d01b4bcb79</embedded_screen>
-        <form display_value="Incidentes Abiertos">e14eb9cb1b6d50104bea97d01b4bcb76</form>
+        <form/>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>slx.gs</sys_created_by>

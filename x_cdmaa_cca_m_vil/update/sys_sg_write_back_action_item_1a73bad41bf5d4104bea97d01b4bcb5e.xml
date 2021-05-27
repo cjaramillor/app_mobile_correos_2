@@ -3,6 +3,7 @@
         <description>Acción de nuevo incidente</description>
         <execution_script/>
         <name>SLX Nuevo INC</name>
+        <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>slx.gs</sys_created_by>
@@ -20,6 +21,7 @@
         <template>caller_id={{Incident Caller}}^u_slx_usuario_afectado={{Incident Usuario Afectado}}^location={{Incident Location}}^contact_type={{Incident Contact Type}}^state={{Incident State}}^u_slx_codigo_easy={{Incident Isoeasy Code}}^assignment_group={{Incident Ass.group}}^assigned_to={{Incident Ass.To}}^short_description={{Incident Short Desc}}^description={{Incident Desc}}^EQ</template>
         <type>new</type>
         <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
     <sys_translated_text action="delete_multiple" query="documentkey=1a73bad41bf5d4104bea97d01b4bcb5e"/>
 </record_update>

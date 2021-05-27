@@ -3,6 +3,7 @@
         <description>Accion de cancelar incidente solicitante</description>
         <execution_script/>
         <name>SLX Cancelar INC</name>
+        <parameter_screen/>
         <query_condition table="incident">number={{number}}^stateIN200,1,2,3^active=true^EQ<item endquery="false" field="number" goto="false" newquery="false" operator="=" or="false" value="{{number}}"/>
             <item display_value="200,1,2,3" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="200,1,2,3"/>
             <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
@@ -25,6 +26,7 @@
 Motivos: {{comentarios}}^assigned_to={{assigned to}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
     <sys_translated_text action="delete_multiple" query="documentkey=1bacb8b01bf158104bea97d01b4bcba8"/>
 </record_update>

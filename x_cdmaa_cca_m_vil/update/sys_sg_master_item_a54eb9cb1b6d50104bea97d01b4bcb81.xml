@@ -3,7 +3,7 @@
         <condition_order>-1</condition_order>
         <datasource_table>incident</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Incidentes Abiertos">e14eb9cb1b6d50104bea97d01b4bcb76</embedded_screen>
+        <embedded_screen/>
         <item_view display_value="Abiertos Item View">d94eb9cb1b6d50104bea97d01b4bcb65</item_view>
         <name>Abiertos Master Item</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>
@@ -18,5 +18,7 @@
         <sys_update_name>sys_sg_master_item_a54eb9cb1b6d50104bea97d01b4bcb81</sys_update_name>
         <sys_updated_by>slx.gs</sys_updated_by>
         <sys_updated_on>2020-06-26 14:06:12</sys_updated_on>
+        <use_view_config>false</use_view_config>
+        <view_config/>
     </sys_sg_master_item>
 </record_update>

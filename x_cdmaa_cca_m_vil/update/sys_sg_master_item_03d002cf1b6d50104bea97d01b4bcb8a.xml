@@ -3,7 +3,7 @@
         <condition_order>-1</condition_order>
         <datasource_table>sc_task</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Tareas de catálogo Sin Asignar">43d002cf1b6d50104bea97d01b4bcb81</embedded_screen>
+        <embedded_screen display_value="Sin Asignar">43d002cf1b6d50104bea97d01b4bcb81</embedded_screen>
         <item_view display_value="Sin Asignar Item View">0bd0028f1b6d50104bea97d01b4bcbb5</item_view>
         <name>Sin Asignar Master Item</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>
@@ -18,5 +18,7 @@
         <sys_update_name>sys_sg_master_item_03d002cf1b6d50104bea97d01b4bcb8a</sys_update_name>
         <sys_updated_by>slx.gs</sys_updated_by>
         <sys_updated_on>2020-06-26 13:51:06</sys_updated_on>
+        <use_view_config>false</use_view_config>
+        <view_config/>
     </sys_sg_master_item>
 </record_update>

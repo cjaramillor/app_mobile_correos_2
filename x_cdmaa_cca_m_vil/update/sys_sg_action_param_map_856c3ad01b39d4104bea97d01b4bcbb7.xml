@@ -14,6 +14,6 @@
         <sys_update_name>sys_sg_action_param_map_856c3ad01b39d4104bea97d01b4bcbb7</sys_update_name>
         <sys_updated_by>slx.gs</sys_updated_by>
         <sys_updated_on>2020-06-30 15:21:17</sys_updated_on>
-        <ui_parameter display_value="Assignment Group ">4dea7a501b39d4104bea97d01b4bcbf1</ui_parameter>
+        <ui_parameter display_value="Grupo Asignación">4dea7a501b39d4104bea97d01b4bcbf1</ui_parameter>
     </sys_sg_action_param_map>
 </record_update>

@@ -3,6 +3,7 @@
         <description>Acción cerrado Incomplleto</description>
         <execution_script/>
         <name>SLX C.Incompleto CTASK</name>
+        <parameter_screen/>
         <query_condition table="sc_task">stateIN-5,1,200,2^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^number={{CatalogTask Number}}^EQ<item display_value="-5,1,200,2" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="-5,1,200,2"/>
             <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
             <item endquery="false" field="number" goto="false" newquery="false" operator="=" or="false" value="{{CatalogTask Number}}"/>
@@ -24,6 +25,7 @@
         <template>state=4^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
     <sys_translated_text action="delete_multiple" query="documentkey=ab41a34b1b6590104bea97d01b4bcb71"/>
 </record_update>

@@ -4,13 +4,18 @@
         <data_item/>
         <description/>
         <dynamic_prefetch_count/>
+        <empty_state/>
         <fetch_type>not_required</fetch_type>
+        <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="Star - Purple">5d55877eff061300f1f2883b73e11c0d</icon>
         <item_view display_value="Incident Detail Screen Item View">2681c1f21b6510104bea97d01b4bcbf7</item_view>
         <name>Incidentes</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
         <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>slx.gs</sys_created_by>
         <sys_created_on>2020-06-25 14:33:26</sys_created_on>
@@ -24,6 +29,8 @@
         <sys_updated_by>slx.gs2</sys_updated_by>
         <sys_updated_on>2020-07-09 21:53:33</sys_updated_on>
         <table>incident</table>
+        <use_view_config>false</use_view_config>
+        <view_config/>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=6681c1f21b6510104bea97d01b4bcbf9"/>
     <sys_translated_text action="INSERT_OR_UPDATE">
